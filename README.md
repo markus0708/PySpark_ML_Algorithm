@@ -5,16 +5,16 @@ This Repository is used temporary for developing functionality of ML Algorithms.
 
 ## _ML_Algorithms_:
 * CLassification Tasks :
->> Support Vector Classifier
->> Logistic Regression
->> Decision Tree Classifier
+>> Support Vector Classifier - 
+>> Logistic Regression - 
+>> Decision Tree Classifier - 
 
-* Regression Tasks
->> General Linear Regression
->> Isotonic Regression
->> Decision Tree Regression
+* Regression Tasks :
+>> General Linear Regression - 
+>> Isotonic Regression - 
+>> Decision Tree Regression - 
 
-* Clustering Task
+* Clustering Task :
 >> K-Means Clustering
 
 ## _Built With_
